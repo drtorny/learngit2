@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 //test change2
-//test dev 
 int changeto(vector<int> A)
 {
 	int n=A.size();
