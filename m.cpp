@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-//test change
 int changeto(vector<int> A)
 {
 	int n=A.size();
